@@ -1,21 +1,24 @@
-  ![logo](https://github.com/Zaid-Operating-System/Zaid-Operating-System/assets/117456465/37664a70-5dbb-442a-a72d-b4ef8b5da8cf)
-<p align="center">Security 🔒 | Speed 💨 | x86 🖥️ | File System 🗂️ | Kernel 💎</p>
+<p align="center">
+  <img src="https://github.com/Zaid-Operating-System/Zaid-Operating-System/raw/main/logo.png" alt="logo"> <br>
+</p>
+<p align="center"><b>Security 🔒 | Speed 💨 | x86 🖥️ | File System 🗂️ | Kernel 💎</b></p>
 
 --------------------------------------------------------------------------------
 
 ## Operating System Content & Features 
 <!-- toc -->
-- [About ](#About-The-Zaid-Operating-System)
-- [Kernel ](#kernel) 
-- [Boot Manager](#Boot-Manager) 
+- [About Zaid Operating System](#about-the-zaid-operating-system)
+- [Kernel](#z-kernel)
+- [Boot Manager](#boot-manager)
 - File Management
 - Window-manager 
 - Multiple Core 
-- Graphics Library 
-- Games 
-- Security
-- Cloud Integration
-- AI-Integrated 
+- Graphics Library
+- User:
+  - Games 
+  - Security
+  - Cloud Integration
+  - AI-Integrated 
 <!-- tocstop -->
 
 ## About The Zaid Operating System 
