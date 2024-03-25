@@ -31,7 +31,6 @@ start at: 20/3/2024
 
 ## About The Zaid Operating System 
 Unix-Like Operating System 
-![BIOS](https://github.com/Zaid-Operating-System/Zaid-Operating-System/assets/117456465/1fbbf554-900d-4d25-b2c0-705cf3992a3a)
 
 ## Z-Kernel
 
