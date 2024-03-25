@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Zaid-Operating-System/Zaid-Operating-System/raw/main/logo.png" alt="logo"> <br>
 </p>
-<p align="center"><b>Security 🔒 | Speed 💨 | x86 🖥️ | File System 🗂️ | Kernel 💎 | v00 </b></p>
+<p align="center"><b>Security 🔒 | Speed 💨 | x86 🖥️ | File System 🗂️ | Kernel 💎 | v0.0 </b></p>
 
 --------------------------------------------------------------------------------
 
